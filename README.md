@@ -1,4 +1,4 @@
-# OpenCV with Python
+# Object Tracking using OpenCV with Python
 
 Implementation of Guided project from coursera.
 
